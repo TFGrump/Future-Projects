@@ -6,7 +6,7 @@ Either like Unity or Unreal where I can make any game I want using the engine
 -or-   
 more realistically, make individual engines that are made for a specific project
 - Make my Game 101 Final Project into a digital game
-- Make my Game 210 Midterm into a legit game
+- Make my Game 210 Midterm into a full game
 
 ### Re-Write my Lisp code into Python
 - 2 layer, back propagation neural network
