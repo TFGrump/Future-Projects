@@ -2,15 +2,19 @@
 A place where I can put all my ideas for projects in one place.    
 Below is written as the header being the main topic, and the bullet points below as "to-do's".   
   
-Make my own game engine
+Learn new languages
 ---
-Either like Unity or Unreal where I can make any game I want using the engine   
--or-   
-more realistically, make individual engines that are made for a specific project
-- Make my Game 101 Final Project into a digital game
-- Make my Game 210 Midterm into a full game
+[ ] SQL (Make my own database)   
+[ ] Javascript (Improve my dad's website?)   
+[ ] PHP (Same as Javascript)   
+  
+Make some games
+---
+Using either Unity or Unreal   
+[ ] Make my Game 101 Final Project into a digital game (with Unity)   
+[ ] Make my Game 210 Midterm in Unity
 
 
 Work more on my Computer Vision Skills
 ---
-- Upload code that I made for projects
+[ ] Upload code that I made for projects
