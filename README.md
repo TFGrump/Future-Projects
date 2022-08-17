@@ -11,9 +11,9 @@ Learn new languages
   
 Make some games
 ---
-Using either Unity or Unreal   
+- [ ] Mod Minecraft    
 - [ ] Make my Game 101 Final Project into a digital game (with Unity)   
-- [ ] Make my Game 210 Midterm in Unity
+- [ ] Make my Game 210 Midterm in Unity    
 
 
 Work more on my Computer Vision Skills
