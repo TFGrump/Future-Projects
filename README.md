@@ -4,8 +4,8 @@ Below is written as the header being the main topic, and the bullet points below
   
 Learn new languages
 ---
-- [x] SQL (Make my own database) (look at Retail-Database or loan-tracking-app)    
-- [ ] Kotlin (To make some apps for mobile)    
+- [x] SQL (Make my own database) (look at [Retail-Database](https://github.com/TFGrump/Retail-Database) or [loan-tracking-app](https://github.com/TFGrump/loan-tracking-app))    
+- [ ] Kotlin (To make some apps for mobile) (look at [loan-tracking-app](https://github.com/TFGrump/loan-tracking-app))    
 - [ ] Javascript (Improve my dad's website?)   
 - [ ] PHP (Same as Javascript)   
   
